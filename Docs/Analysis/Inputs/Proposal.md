@@ -8,3 +8,6 @@ The project is made up of 4 smaller projects. Each of these smaller projects wil
 This project uses the Feenove Smart Car, a small car powered by a Raspberry Pi. The car will be coded using Python.
 ## Team Member Roles
 The work will be spread as evenly as possible between the team members. It will be broken down into many smaller issues that can be assigned to 1 or 2 group members.
+
+##Group Contributors
+Our group includes four talented coders, Philomina, Chris, Alex, and Reece.
