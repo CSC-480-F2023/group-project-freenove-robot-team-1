@@ -1,5 +1,5 @@
 # Main Header
-## Christopher Brown
-## Reece Cato
-## Philomina Ekezie
-## Alexander Gass
+## <Contribution Here> - Christopher Brown
+## <Contribution Here> - Reece Cato
+## <Contribution Here> - Philomina Ekezie
+## <Contribution Here> - Alexander Gass
