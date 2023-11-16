@@ -20,6 +20,7 @@ He has been paid by Professor Munday to determine if the car can correctly do th
 - Detect balls and their color
 - Find a ball given its color
 - Identify Objects
+
 #Frustrations
 He will report the robot to Professor Munday if any of the following happens:
 - The car fails to detect a ball that is within one foot of the car
