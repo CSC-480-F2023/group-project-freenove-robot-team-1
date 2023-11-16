@@ -11,6 +11,16 @@ The car should be able to determine the color of a detected ball in less than on
 The car should be able to determine the location of a ball in less than five seconds.
 The car should be able to determine what a detected object is in less than one second.
 
+## StakeHolders
+### User
+The users for this project will be the members of our team and Professor Munday
+### Acquirer
+The acquirer for this project is Professor Munday.
+### Producers
+The producers for this project are the members of our team.
+### Regulatior
+The regulator for this project is Professor Munday.
+
 ## Stakeholder Persona - Sir Thorsday (Professional Robot Enthusiast)
 ### Job Summary
 Sir Thorsday is responsible for evaluating the car's abilities and performance at the request of Professor Munday. He ensures that the car can perform its tasks correctly and in a timely manner.
