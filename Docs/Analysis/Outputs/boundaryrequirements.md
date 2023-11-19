@@ -35,3 +35,8 @@ If the Freenove Smart Car's infrared scanner malfunctions or is damaged, it migh
 
 
 
+## **User Stakeholders**
+
+
+
+
