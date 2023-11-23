@@ -6,21 +6,16 @@ One of the main objectives of the FreeNove Smart Car Project is to have the car 
 The following are functional and non-functional requirements necessary for this to occur.
 
 ### Functional Requirements
-* The car should be able to find balls based on a sequence provided by the user. 
 * The car should come to a stop once it has come within two feet of the ball next in sequence.
-* The car should signal to the user that it has found a ball in the sequence by flashing its LED lights.
 
 ### Non-Functional Requirements
-* The car should be of good size (not too small but not too large) so that it is easy to follow and easy to store.
-* The car should have bright LED lights so the user can easily tell when it has accomplished a task.
-*  The car should move in easy-to-follow motions, so the user can understand what it is "thinking" as it finds the balls.
+* The car should come to a stop within five seconds. 
   
-
 ## Stakeholders
 The following are possible stakeholders for our project.
 
 ### User
-1) Kids / Chldren 
+1) Kids / Children 
 2) Other interns working in a related field / on a related project
 
 * The requirements of these users would likely include 1) easily being able to understand how to operate the car, 2) being entertained by the abilities of the car, and 3) having an enjoyable experience while working with the car.
