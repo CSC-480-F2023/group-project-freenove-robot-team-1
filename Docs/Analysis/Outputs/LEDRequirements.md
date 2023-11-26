@@ -32,3 +32,23 @@ The acquirer of the Smart Car will be the team or individual that will use the c
 The producer of the Smart Car are the Software Engineering students to help with the project.
 ### **Regulator**
 The Regulators for the Smart Car is Dr.Munday.
+
+## Stakeholder Persona - Team Freenove Robot 1 (Group designing the software)
+### Job Summary
+Team Freenove Robot 1 are the Software Engineering students responsible for designing, developing, and delivering the Smart Car system
+
+### Motivations
+They have been tasked by Professor Munday to determine if the car can correctly do the following: 
+- Create a three-class YOLO object model based on 150-200 images from various backgrounds and angles.
+- Implement the functionality for the Smart Car to flash LEDs in response to detected objects and move towards them
+- Stop within a specific distance of the detected object
+- Indicate completion of the movement towards the object.
+
+### Frustrations
+They will report the robot to Professor Munday if any of the following happens:
+- The car fails to detect a YOLO object that is within one foot of the car
+- The car fails to stay within the given boundry
+- The car misidentifies the color of the object, and flashes wrong color LED
+- The car fails to find a object of a particular color
+- Lack of effective communication among team members or with stakeholders, including Dr. Munday as the regulator
+- Fails to meet the requirements and expectations of both users and acquirers.
