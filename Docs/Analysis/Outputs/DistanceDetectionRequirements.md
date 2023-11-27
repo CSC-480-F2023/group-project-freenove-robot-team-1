@@ -4,9 +4,25 @@ Our FreeNove Smart Car Project includes four projects, each intended to increase
 ## Stakeholder Persona: Artificialla Intelligenceson (Smart Car Evaluator)
 Job Summary: Ms. Intelligenceson works for a prestigious company that buys freenove smart cars. This company only wants smart cars that can successfully detect balls, change their LED lights, stay within a certain boundary, and related tasks (essentially, all of the requirements outlined in our project). Her job is to evaluate smart cars when a group of people like ourselves hopes to have our smart car purchased by a big company.
 
-#### Motivations:
-* Ms. Intelligenceson wants to identify smart cars that meet the standards set by her company.
-* She wants to find smart car producers that are capable of producing products that maintain her company's reputation. 
+#### Motivations: Ms. Intelligenceson has been hired by her company to do the following:
+* Identify smart cars that meet the standards set by her company.
+* Find smart car producers who are capable of producing products that maintain her company's reputation.
+
+Make sure that evaluated smart cars:
+- Have infrared sensors that operate correctly
+-  Come to a complete when they contact a ball
+- Change their LED lights to the same light as the ball it bumps into
+- Stay within the given boundary
+
+
+#### Frustrations:
+Ms. Intelligenceson will report to her company if any of the cars:
+
+* Have infrared sensors that do not operate correctly
+* Do not come to a complete when they contact a ball
+* Change their LED lights to a different light as the ball it bumps into
+* Do not stay within the given boundary
+
 
 ### Distance Detection Requirements 
 One of the main objectives of the FreeNove Smart Car Project is to have the car detect the distance between itself and the ball it is trying to identify. 
