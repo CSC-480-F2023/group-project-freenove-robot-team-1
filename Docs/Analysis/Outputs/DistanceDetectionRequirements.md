@@ -1,7 +1,13 @@
 # - Distance Detection -
 Our FreeNove Smart Car Project includes four projects, each intended to increase the capabilities of the smart car. In this document, I will be focusing on requirements that pertain to a specific part of our project: distance detection. After discussing the requirements for this part, I will also discuss plausible stakeholders and constraints. First, let's define a persona:
 
-### Persona: 
+## Stakeholder Persona: Artificialla Intelligenceson (Smart Car Evaluator)
+Job Summary: Ms. Intelligenceson works for a prestigious company that buys freenove smart cars. This company only wants smart cars that can successfully detect balls, change their LED lights, stay within a certain boundary, and related tasks (essentially, all of the requirements outlined in our project). Her job is to evaluate smart cars when a group of people like ourselves hopes to have our smart car purchased by a big company.
+
+#### Motivations:
+* Ms. Intelligenceson wants to identify smart cars that meet the standards set by her company.
+* She wants to find smart car producers that are capable of producing products that maintain her company's reputation. 
+
 ### Distance Detection Requirements 
 One of the main objectives of the FreeNove Smart Car Project is to have the car detect the distance between itself and the ball it is trying to identify. 
 
