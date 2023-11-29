@@ -34,6 +34,24 @@ If the Freenove Smart Car's infrared scanner malfunctions or is damaged, it migh
 
 
 
+# **Stakeholders**
+
+## **User**
+The users for this project will be the members of our team, Professor Munday, and companies that would use AI miniature vehicles.
+
+
+## **Acquirer**
+The acquirer for this project is Professor Munday.
+
+
+## **Producers**
+The producers for this project are the members of our team.
+
+
+## **Regulator**
+The regulator for this project is Professor Munday.
+
+
 
 # **User Stakeholder Persona: Boris Satrick (Local Sumo Bot Host)**
 
