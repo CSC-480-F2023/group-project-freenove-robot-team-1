@@ -36,8 +36,8 @@ Project 2 expands upon project 1 by introducing the camera and basic object dete
 [P2-001] Implement requirements P1-001.
 
 [P2-002] When the software detects a ball within one foot, the car shall perform the following activities.
--	Determine color of ball and change vehicle LEDs to match color of ball.
--	Pause the car for five seconds before continuing down the track.
+- [P2-002-01]	Determine color of ball and change vehicle LEDs to match color of ball.
+- [P2-002-02]  Pause the car for five seconds before continuing down the track.
 
 [P2-003] Once a ball color is detected, the application shall ignore that color ball for the remainder of the program.
 
